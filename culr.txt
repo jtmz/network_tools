@@ -1,0 +1,5 @@
+curl -i http://www.bancocn.com/admin -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0" -H "Cookie: __cfduid=dbdc9e1f8ca5f4769a988726fbe343a7c1541438361; cf_clearance=c0ce4d12e63d92f35ac00e7a525b5d5fd50d403a-1541603849-3600-150" -L
+
+exemplo de acesso via curl
+
+================================================
